@@ -5,3 +5,30 @@ body
   font-family: "Comic Sans";
   
 }
+
+#cabecera
+{
+background : #3333aa;
+Color: white;
+margin: 0;
+padding: 0.5em;
+
+}
+
+#container 
+{
+width: 70%;
+padding: 0;
+text-align: left;
+border: 1 px solid #dddddd;
+margin: 0 auto;
+
+}
+
+container h1
+{
+font-size: 20 px;
+
+}
+
+#post
