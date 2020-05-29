@@ -4,6 +4,7 @@ Este blog cree con un curso de platzi
 
 creado por andre 
 aqui aprendo mucho 
+incluye ejemplos en windows linux y mac xd xd
 
 
 
